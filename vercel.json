@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "routes": [
+        {
+            "src": "/ebay/deletion",
+            "dest": "/api/ebay-deletion"
+        }
+    ]
+}
